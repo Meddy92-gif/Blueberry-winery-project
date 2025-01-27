@@ -10,5 +10,29 @@ This dataset is perfect for data analysis, machine learning, and exploratory res
 
 ![image](https://github.com/user-attachments/assets/910c2777-07a9-4694-b5dd-38b7d79f8e31)
 
+## Steps of Data Analysis
+The goal was to target high-quality wines across both wine types based on their chemical properties:
+![image](https://github.com/user-attachments/assets/d469bef6-1598-42c2-a0cb-282a4bd29e92)
+
+### Data cleaning: Detecting and Handling Missing or Duplicate Values
+ I began by identifying missing or duplicate entries in the dataset and addressed them through removal or replacement to maintain data integrity.
+ The provided dataset was clean enough, only to observe duplicated values and luckily no missing values were detected. 
+
+### Defining the values + wine comparison: Analyzing and Categorizing Quality Ratings
+I examined the wine quality ratings provided by experts. 
+To make the data more interpretable, I categorized the ratings into three levels: 'Low', 'Medium', and 'High'. I then compared the characteristics of each category to uncover meaningful insights.
+
+### Statistical methods: Investigating Patterns Influencing Wine Quality
+To understand what makes wine good, I explored correlations between physiochemical properties and quality ratings.
+I also identified and removed intercorrelations between variables to focus on the most impactful factors.
+
+### Build ML model and train with selected variables: Training Machine Learning Models
+Using the significant variables I identified, I trained machine learning models to classify wine quality effectively and evaluated their performance.
+
+
+
+ 
+
+
 
 
