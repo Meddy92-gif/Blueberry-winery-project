@@ -21,15 +21,20 @@ The goal was to target high-quality wines across both wine types based on their 
 ### Defining the values + wine comparison: Analyzing and Categorizing Quality Ratings
 I examined the wine quality ratings provided by experts. 
 To make the data more interpretable, I categorized the ratings into three levels: 'Low', 'Medium', and 'High'. I then compared the characteristics of each category to uncover meaningful insights.
+To gain insight into how the chemical properties influence wine quality, refer to the following charts:
+
 
 ### Statistical methods: Investigating Patterns Influencing Wine Quality
 I explored correlations between physiochemical properties and quality ratings to understand what makes a wine good.
 I also identified and removed intercorrelations between variables to focus on the most impactful factors.
-To identify the key factors, I analyzed the heatmap metrics, specifically focusing on the correlation coefficients between variables. These coefficients range from -1 to +1 and can be interpreted as follows:
+I analyzed the heatmap metrics to identify the key factors, specifically focusing on the correlation coefficients between variables. These coefficients range from -1 to +1 and can be interpreted as follows:
 
 - **+1**: Indicates a strong positive linear relationship.  
 - **0**: Reflects the absence of any linear relationship.  
 - **-1**: Denotes a strong negative linear relationship.
+
+For enhanced visual clarity, examine the heatmaps provided here:
+
 
 ### Build ML model and train with selected variables: Training Machine Learning Models
 Using the significant variables I identified, I trained machine learning models to classify wine quality effectively and evaluated their performance.
