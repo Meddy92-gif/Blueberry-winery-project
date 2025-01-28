@@ -21,8 +21,7 @@ The goal was to target high-quality wines across both wine types based on their 
 ### Defining the values + wine comparison: Analyzing and Categorizing Quality Ratings
 I examined the wine quality ratings provided by experts. 
 To make the data more interpretable, I categorized the ratings into three levels: 'Low', 'Medium', and 'High'. I then compared the characteristics of each category to uncover meaningful insights.
-To gain insight into how the chemical properties influence wine quality, refer to the following charts:
-
+To gain insight into how the chemical properties influence wine quality, refer to the following [charts](https://github.com/Meddy92-gif/Project-2/tree/master/wine%2Bquality)
 
 ### Statistical methods: Investigating Patterns Influencing Wine Quality
 I explored correlations between physiochemical properties and quality ratings to understand what makes a wine good.
