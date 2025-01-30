@@ -32,7 +32,7 @@ I analyzed the heatmap metrics to identify the key factors, specifically focusin
 - **0**: Reflects the absence of any linear relationship.  
 - **-1**: Denotes a strong negative linear relationship.
 
-For enhanced visual clarity, examine the heatmaps provided here:
+For enhanced visual clarity, examine the heatmaps provided in this section.
 
 
 ### Build ML model and train with selected variables: Training Machine Learning Models
