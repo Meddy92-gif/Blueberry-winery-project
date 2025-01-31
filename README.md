@@ -35,8 +35,14 @@ I analyzed the heatmap metrics to identify the key factors, specifically focusin
 For enhanced visual clarity, examine the heatmaps provided in this section.
 
 
-### Build ML model and train with selected variables: Training Machine Learning Models
+## Build ML model and train with selected variables: Training Machine Learning Models
 Using the significant variables I identified, I trained machine learning models to classify wine quality effectively and evaluated their performance.
+
+### Model Accuracy Comparison for Red Wine
+
+### Overview
+
+This script visualizes the accuracy of different machine learning models used for predicting red wine quality. It utilizes Python libraries such as pandas, seaborn, and matplotlib to create a bar chart comparing the accuracy of four models: Logistic Regression (LOR_model), Random Forest Classifier (RFC), Decision Tree Classifier (DTC), and Support Vector Machine (SVM).
 
 
 
