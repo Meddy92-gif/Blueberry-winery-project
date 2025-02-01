@@ -21,7 +21,7 @@ The goal was to target high-quality wines across both wine types based on their 
 ### Defining the values + wine comparison: Analyzing and Categorizing Quality Ratings
 I examined the wine quality ratings provided by experts. 
 To make the data more interpretable, I categorized the ratings into three levels: 'Low', 'Medium', and 'High'. I then compared the characteristics of each category to uncover meaningful insights.
-To gain insight into how the chemical properties influence wine quality, refer to the following [charts](https://github.com/Meddy92-gif/Project-2/tree/master/wine%2Bquality)
+To gain insight into how the chemical properties influence wine quality, refer to the following [charts](https://github.com/Meddy92-gif/Project-2.git)
 
 ### Statistical methods: Investigating Patterns Influencing Wine Quality
 I explored correlations between physiochemical properties and quality ratings to understand what makes a wine good.
@@ -32,11 +32,17 @@ I analyzed the heatmap metrics to identify the key factors, specifically focusin
 - **0**: Reflects the absence of any linear relationship.  
 - **-1**: Denotes a strong negative linear relationship.
 
-For enhanced visual clarity, examine the heatmaps provided here:
+For enhanced visual clarity, examine the heatmaps provided in this section.
 
 
-### Build ML model and train with selected variables: Training Machine Learning Models
+## Build ML model and train with selected variables: Training Machine Learning Models
 Using the significant variables I identified, I trained machine learning models to classify wine quality effectively and evaluated their performance.
+
+### Model Accuracy Comparison for Red Wine
+
+### Overview
+
+This script visualizes the accuracy of different machine learning models used for predicting red wine quality. It utilizes Python libraries such as pandas, seaborn, and matplotlib to create a bar chart comparing the accuracy of four models: Logistic Regression (LOR_model), Random Forest Classifier (RFC), Decision Tree Classifier (DTC), and Support Vector Machine (SVM).
 
 
 
