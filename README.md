@@ -1,7 +1,7 @@
 # BlueBerry Wine Project
 
 ## Data description
-This dataset explores two distinct Portuguese "Vinho Verde" wine varieties—red and white. It provides a comprehensive collection of samples, offering a unique opportunity to delve into the characteristics that define wine quality.
+This dataset explores two distinct Portuguese "Vinho Verde" wine varieties - red and white. It provides a comprehensive collection of samples, offering a unique opportunity to delve into the characteristics that define wine quality.
 
 The dataset comprises 1,599 samples of red wine and 4,898 samples of white wine (as in the chart below with the percental distribution), each containing detailed physiochemical information, such as acidity, sugar levels, and alcohol content. In addition to these metrics, the dataset includes quality evaluations performed by wine experts.
 
